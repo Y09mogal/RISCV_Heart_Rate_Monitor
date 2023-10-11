@@ -13,6 +13,8 @@ The grid-based push-button passcode-locked Smart Door system aims to enhance sec
 
 ## Block Diagram
 
+![Screenshot from 2023-10-12 00-02-59](https://github.com/Y09mogal/RISCV_Heart_Rate_Monitor/assets/79003694/0e384a9a-abb4-44d2-aaa8-c409bc427598)
+
 ## C Code
 
 ```
